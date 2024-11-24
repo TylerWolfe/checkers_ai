@@ -1,6 +1,6 @@
 # Checkers AI
 
-# Description
+## Description
 This is a checkers game that I am building with the goal of exploring AI, Python, Git, and the software development process. As a beginner in Python, I’m leveraging AI tools like ChatGPT-4o and Claude-3.5-Sonnet to write *every line of code*. The ultimate goal is to develop a functional, polished game while gaining hands-on experience in AI algorithms, game development, and version control.
 
 ---
